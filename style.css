@@ -10,7 +10,7 @@ body {
     }
     
     header {
-    background-color: #ffcc00;
+    background-color: #c300ff;
     color: #000;
     padding: 20px;
     }
@@ -24,7 +24,7 @@ body {
     width: 80%;
     max-width: 500px;
     height: auto;
-    border: 5px solid #ffcc00;
+    border: 5px solid #00ff4c;
     margin: 20px auto;
     display: block;
     }
